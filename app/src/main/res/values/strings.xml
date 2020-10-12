@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">User Interaction</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string name="phonenumber_label">Nomor Telepon : </string>
+    <string name="nothing_entered">Tidak ada input</string>
+    <string name="nothing_selected">Tidak ada yang dipilih</string>
+    <string name="show_button">Tampilkan</string>
+    <string name="hint_phonenumber">+628100332112</string>
+</resources>
